@@ -1,0 +1,20 @@
+h1 {border-style: hidden;
+    border-width: 10pv;
+    border-color:beige;
+    
+        background-color: palevioletred;
+      margin-left:  100px;
+      margin-right: 100px;
+      margin-top: 25x;
+      margin-bottom: 25px;
+      border-style:double;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
+      text-align: center;
+      padding: 50px 400px 50px 400px;
+}
+body {
+    background-color: gold;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
